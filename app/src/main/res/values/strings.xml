@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FashionStore</string>
+    <string name="appbar_scrolling_view_behavior">scrolling_view</string>
+    <string name="categories">Categories</string>
+    <string name="shirts">SHIRTS</string>
+    <string name="shirt_image">shirt_image</string>
+    <string name="devslopes_shirt_black">Devslopes Shirt Black</string>
+</resources>
